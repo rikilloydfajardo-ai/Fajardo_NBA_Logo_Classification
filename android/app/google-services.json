@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039767818326",
+    "project_id": "fajardonbaclassifier",
+    "storage_bucket": "fajardonbaclassifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039767818326:android:34e92789533c3bc3b86bf7",
+        "android_client_info": {
+          "package_name": "com.example.nba_classifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskLfjDNhapjk_4fWuLgNVXjsWf-yApu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
