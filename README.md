@@ -38,15 +38,6 @@ android/ ios/           → Platform-specific files
 web/ windows/ macos/    → Cross-platform support
 ```
 
----
-
-## 📸 Application Screenshots
-
-| Home Screen                         | Upload Image                          | Classification Result                 |
-| ----------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![](assets/OUTPUT_SCREENSHOTS/Golden State Warriors.jpg) | ![](assets/OUTPUT_SCREENSHOTS/02_upload.png) | ![](assets/screenshots/03_result.png) |
-
----
 
 ## ⚙️ Technologies Used
 
@@ -80,7 +71,7 @@ flutter run
 
 ## 👩‍💻 Developer
 
-**Last Name, First Name**
+**Fajardo, Riki Lloyd T.**
 Bachelor of Science in Information Technology
 
 ---
