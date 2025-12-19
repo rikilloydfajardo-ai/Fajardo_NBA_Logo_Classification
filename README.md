@@ -1,16 +1,30 @@
-# app
+# 🏀 NBA Logo Image Classifier
 
-A new Flutter project.
+## 📌 Project Overview
+The NBA Logo Image Classifier is a Flutter-based mobile application that uses
+image classification techniques to identify NBA team logos from uploaded or
+captured images. The project demonstrates the application of image
+classification in mobile development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Objectives
+- To classify NBA team logos using image recognition
+- To demonstrate image classification in a mobile application
+- To provide a simple and user-friendly interface for users
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 Image Classification Type
+The application classifies the following NBA team logos:
+- Los Angeles Lakers
+- Golden State Warriors
+- Boston Celtics
+- Chicago Bulls
+- Miami Heat
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🗂 Project Structure
+All application files are contained in a single Flutter project repository.
+
